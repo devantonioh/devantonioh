@@ -1,5 +1,5 @@
 #  Hola, soy Antonio Herrera 👋
-### aprendiz de Flutter & Kotlin,
+### aprendiz de Flutter & Kotlin
 
 <!--
 **devantonioh/devantonioh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
