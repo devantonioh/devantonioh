@@ -2,7 +2,7 @@
 ### programador trainee en Venezuela, aprendiz de Flutter & Kotlin
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
-[![Flutter](https://storage.googleapis.com/cms-storage-bucket/c823e53b3a1a7b0d36a9.png)]()
+[![Flutter](https://img.shields.io/badge/flutter-0095D5?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)]()
 [![Dark](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=10101)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 </br>
