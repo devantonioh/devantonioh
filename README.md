@@ -1,5 +1,5 @@
 #  Hola, soy Antonio Herrera 👋
-## programador trainee en Venezuela aprendiz de Flutter & Kotlin
+## programador trainee en Venezuela, aprendiz de Flutter & Kotlin
  
 
 <!--
