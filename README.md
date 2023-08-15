@@ -1,6 +1,7 @@
 <div align="center">
 #  Hola, soy Antonio Herrera 👋
 </div>
+
 ### programador trainee en Venezuela, aprendiz de Flutter & Kotlin
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-9146FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
